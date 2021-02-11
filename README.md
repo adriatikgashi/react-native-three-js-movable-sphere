@@ -1,4 +1,4 @@
-# Three.js Example
+# React Native Three-Js Moveable Sphere Example
 
 <p>
   <!-- iOS -->
@@ -8,6 +8,11 @@
   <!-- Web -->
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
+
+## Screenshot and Video
+🟠 Watch video: [Here](https://github.com/adriatikgashi/react-native-three-js-movable-sphere/blob/main/video.MP4)
+
+![alt text](https://github.com/adriatikgashi/react-native-three-js-movable-sphere/blob/main/screenshot.jpeg)
 
 ## 🚀 How to use
 
